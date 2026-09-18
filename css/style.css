@@ -8,6 +8,11 @@ header{
     padding: 20px;
 }
 
+article{
+    width: 100%;
+    margin-bottom: 16px;
+}
+
 footer{
     margin-top: 24px;
 }
@@ -19,8 +24,8 @@ footer{
         margin-right: 3%;
         vertical-align: top; 
     }
-    .cards-container
-        width: 100%; 
-        margin-bottom: 16px;
+    .cards-container{
+        width: 100%;
+    }
 }
     
