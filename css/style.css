@@ -4,3 +4,23 @@
     box-sizing: border-box;
 }
 
+header{
+    padding: 20px;
+}
+
+footer{
+    margin-top: 24px;
+}
+
+@media(min-width:768px){
+    article{
+        display: inline-block;
+        width: 30%;
+        margin-right: 3%;
+        vertical-align: top; 
+    }
+    .cards-container
+        width: 100%; 
+        margin-bottom: 16px;
+}
+    
