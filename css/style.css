@@ -6,6 +6,7 @@
 
 header{
     padding: 20px;
+    margin-bottom: 24px;
 }
 
 .intro{
@@ -19,6 +20,7 @@ article{
 
 footer{
     margin-top: 24px;
+    padding: 20px;
 }
 
 @media(min-width:768px){
