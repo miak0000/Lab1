@@ -8,13 +8,13 @@ header{
     padding: 20px;
     margin-bottom: 24px;
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: paleturquoise;
+    color: black;
 }
 
 .intro{
     width: 100%;
-    background-color: burlywood;
+    background-color: palegreen;
 }
 
 img{
@@ -24,15 +24,14 @@ img{
 article{
     width: 100%;
     margin-bottom: 16px;
-    background-color: antiquewhite;
 }
 
 footer{
     margin-top: 24px;
     padding: 20px;
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: paleturquoise;
+    color: black;
 }
 
 @media(min-width:768px){
