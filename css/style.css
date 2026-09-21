@@ -5,7 +5,12 @@
 }
 
 header{
+    width: 100%;
     padding: 20px;
+}
+
+.intro{
+    width: 100%;
 }
 
 article{
@@ -14,8 +19,11 @@ article{
 }
 
 footer{
+    width: 100%;
     margin-top: 24px;
 }
+
+
 
 @media(min-width:768px){
     article{
