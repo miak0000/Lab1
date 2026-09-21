@@ -6,22 +6,27 @@
 
 header{
     padding: 20px;
-    margin-bottom: 24px;
-    background-color: aquamarine;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
 
 .intro{
     width: 100%;
+    background-color: burlywood;
 }
 
 article{
     width: 100%;
     margin-bottom: 16px;
+    background-color: antiquewhite;
 }
 
 footer{
     margin-top: 24px;
-    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
 
 @media(min-width:768px){
